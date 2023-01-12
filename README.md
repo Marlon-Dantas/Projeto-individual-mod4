@@ -1,4 +1,6 @@
 # Projeto-individual-mod4
+![Diagrama](![image](https://user-images.githubusercontent.com/92075470/211962261-2c00b449-6ec3-4b83-91e3-e9d07256a0ae.png))
+
 
 ##Existem outras entidades além dessas três?
 ```sh
