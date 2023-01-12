@@ -1,7 +1,7 @@
 # Projeto-individual-mod4
 
 
-##Existem outras entidades além dessas três?
+## Existem outras entidades além dessas três?
 ```sh
 A única entidade adicionada é ‘Professores’, além das 3 já existentes.
 ```
